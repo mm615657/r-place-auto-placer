@@ -1,7 +1,11 @@
 # r/place auto-placer
 
-An automated placer script for /r/placer.
-These piece of codes was initally stealed from the void script.i tried to modefi it to make it possible to support any image.
-However,i just learn py for about few hours and im not good on codeing.so i put my (shit) work here and looking for help.
+An automated placer script for /r/placer. 
 
-Feel free to modefi anything.(this readme file is also included)
+These piece of codes was initially steal from the void script. I tried to modify it to make it possible to support any image. 
+
+However, I just learn python for about few hours and I’m not good on codeing.so I put my (shit) work here and looking for help.
+
+
+Feel free to modify anything. (this readme file is also included)
+
