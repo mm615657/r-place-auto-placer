@@ -1,4 +1,4 @@
-# r-place-auto-placer
+# r/place auto-placer
 
 An automated placer script for /r/placer.
 These piece of codes was initally stealed from the void script.i tried to modefi it to make it possible to support any image.
